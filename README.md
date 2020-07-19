@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 👋你好！ 
+### 🤔我是一位普通的高中生。  
+### ⚡我对一些奇怪的东西有极大的兴趣。
 <!--
 **Drinktoomuchsks/Drinktoomuchsks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
