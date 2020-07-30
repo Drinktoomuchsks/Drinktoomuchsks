@@ -1,9 +1,8 @@
 ### 👋你好！ 
 ### 🤔我是一位普通的高中生。  
-### ⚡我对一些奇怪的东西有极大的兴趣。
+### ⚡对一些奇怪的东西有极大的兴趣。
+### 📫我的邮箱:123456789@heaven.com
 <!--
-**Drinktoomuchsks/Drinktoomuchsks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
